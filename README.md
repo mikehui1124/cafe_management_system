@@ -51,3 +51,15 @@ https://github.com/mikehui1124/cafe_management_system/assets/105307687/9c32cef9-
   
 ![userForm_1](https://github.com/mikehui1124/cafe_management_system/assets/105307687/33ff55e3-e658-4785-8051-91d8a7a65ec2)
 ![userForm_Added](https://github.com/mikehui1124/cafe_management_system/assets/105307687/9d266bde-b73d-4a8b-b168-1920af864080)
+
+# SQL Server Database Structure 
+
+- Database Tree, Tables and Bespoke Views
+  
+![DB_tree](https://github.com/mikehui1124/cafe_management_system/assets/105307687/952e65d7-cbb7-4a88-aa92-14add9e23cfd)
+![DB_itemTable](https://github.com/mikehui1124/cafe_management_system/assets/105307687/6e4124d3-ec1d-4382-a706-f9b97fe30d88)
+![DB_userOrderview](https://github.com/mikehui1124/cafe_management_system/assets/105307687/39414106-64b1-408f-9667-79dd82f4cae7)
+
+
+
+  
